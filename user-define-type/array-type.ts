@@ -1,4 +1,5 @@
 let userNames : string[]
+const colors = require('colors')
 userNames = ["Anis","Zaman", "Amin", "Sayeed"]
 let userId1 : number
 

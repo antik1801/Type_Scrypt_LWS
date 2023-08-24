@@ -1,4 +1,5 @@
 var userNames;
+var colors = require('colors');
 userNames = ["Anis", "Zaman", "Amin", "Sayeed"];
 var userId1;
 console.log(userNames[2]);
